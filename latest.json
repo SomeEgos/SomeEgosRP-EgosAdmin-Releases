@@ -1,0 +1,15 @@
+{
+  "version": "0.5.0",
+  "notes": "- Version 0.5.0\n- Players: load item pictures in batches so none go missing\n- Players: slot pictures from item metadata (clothing shots)\n- Players: item icons from se-inventory over SSH; edits through se-admin",
+  "pub_date": "2026-10-08T07:47:53Z",
+  "platforms": {
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb1B3bVl1VEkzZlVVWUY5QnVXOTZxRzVvenRUOXZnZHhoVWtLcU1rUzFuUkgzTFJsT05aQmJ6SDZqcW1HbUlXK2xvR2hsRWlac3NwbTl0dTE0dUNNNFNJWVFtcmVnVmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQ1NjY3CWZpbGU6RWdvcyBBZG1pbl8wLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC41LjAKbVpndlkzUmJxaE9VU2FaV2dNdE1hclJScWw5NWxoZHdnNis5bTBxY3BLWU84OGR0T3B0YVlvL1lLT2VtamtMWnE2UWpxRWZFSFNRTVdVbWdWYkdqQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/SomeEgos/SomeEgosRP-EgosAdmin-Releases/main/EgosAdmin_0.5.0_x64-setup.exe"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSb1B3bVl1VEkzZlVVWUY5QnVXOTZxRzVvenRUOXZnZHhoVWtLcU1rUzFuUkgzTFJsT05aQmJ6SDZqcW1HbUlXK2xvR2hsRWlac3NwbTl0dTE0dUNNNFNJWVFtcmVnVmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDQ1NjY3CWZpbGU6RWdvcyBBZG1pbl8wLjUuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC41LjAKbVpndlkzUmJxaE9VU2FaV2dNdE1hclJScWw5NWxoZHdnNis5bTBxY3BLWU84OGR0T3B0YVlvL1lLT2VtamtMWnE2UWpxRWZFSFNRTVdVbWdWYkdqQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/SomeEgos/SomeEgosRP-EgosAdmin-Releases/main/EgosAdmin_0.5.0_x64-setup.exe"
+    }
+  }
+}
